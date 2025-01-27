@@ -6,7 +6,7 @@ Hello and welcome to the code behind my portfolio webpage! This is where I share
 
 ## 🌐 Explore My Portfolio
 
-🔗 [Ng Wee Chai - Data Analyst | Data Scientist](https://weechai.github.io/)
+🔗 [Ng Wee Chai - Data Analyst | Data Scientist](https://weechai-ng88.github.io/)
 
 ---
 
