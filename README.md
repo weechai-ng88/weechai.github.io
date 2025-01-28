@@ -1,6 +1,6 @@
 # Ng Wee Chai - Data Analyst | Data Scientist
 
-Hello and welcome to the code behind my portfolio webpage! This is where I share my journey as a **Data Analyst**, showcasing the cool projects I’ve worked on and the skills I’ve picked up along the way. With over 7 years of experience in architecture and design, I bring a creative twist to solving data problems and telling compelling stories through data.
+Hello and welcome to the code behind my portfolio webpage! This is where I share my journey as a **Data Analyst | Data Scientist**, showcasing the cool projects I’ve worked on and the skills I’ve picked up along the way. With over 7 years of experience in architecture and design, I bring a creative twist to solving data problems and telling compelling stories through data.
 
 ---
 
