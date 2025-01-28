@@ -38,7 +38,7 @@ Hello and welcome to the code behind my portfolio webpage! This is where I share
    - A machine learning app that predicts resale flat prices.
 
 3. **EV Charging Map**  
-   - Interactive maps showing charging stations across Singapore.
+   - Interactive maps showing charging stations.
 
 4. **Nike Scraper**  
    - A Python-powered tool to scrape and analyze product data.
